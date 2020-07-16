@@ -1,5 +1,5 @@
 # Tugas 17 CSS
 
-Flexbox
+Flexbox.
 
 ![tugas17](screen/tugas17.png)
